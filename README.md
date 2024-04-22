@@ -26,8 +26,13 @@ I love meeting new people. To connect:
 - [LinkedIn](https://www.linkedin.com/in/jonhwilliams) works for everything else.
 
 
-### Project Overview:
-* #TODO
+### Project Overview:  
+> Using survey data address the possibilities and willingness to play
+* Increase sucbscriptions
+* Optimize price
+* Expansion revenue (features, support, API, ads, etc)
+* Differentiate value 
+* Market segmentation (out of scope)  
 
 ### Tech stack:
 * [requirements](https://github.com/kjon-life/conjoint_analyses/blob/main/requirements.txt)
