@@ -52,7 +52,7 @@ I love meeting new people. To connect:
 
 This project [depends](https://github.com/kjon-life/kjon-life/network/dependencies) on the copious contributions of others and is possible because of the following services:
 
-* #TODO
+* #TODO [Taipy](https://taipy.io/)
 
 
 ___
