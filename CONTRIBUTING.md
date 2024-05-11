@@ -1,6 +1,6 @@
 # CONTRIBUTING GUIDELINES
 
-Ultimately kjon-django is a side project. Sure, I am relentless, and it could turn into something special, but so far it's just four days of work to demonstrate a thing about django on fly.io.
+So `conjoint_analyses` is a side project. Sure, I am relentless, and it could turn into something special, but so far it's just two days of work to demonstrate a thing about statistics with Python.
 
 Contribution is necessary, welcome, respected, and appreciated, but there is no SLA.
 
@@ -114,7 +114,7 @@ Can't find anything similar in search or FAQ? Then [create an issue](#reporting-
 
 ## Commit Guidelines
 
-kjon-django uses the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification. The automatic changelog tool uses these to automatically generate a changelog based on the commit messages. Here's a guide to writing a commit message to allow this:
+__conjoint_analyses__ uses the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification. The automatic changelog tool uses these to automatically generate a changelog based on the commit messages. Here's a guide to writing a commit message to allow this:
 
 ### Format
 

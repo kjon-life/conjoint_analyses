@@ -2,7 +2,8 @@
 
 <div style="display:flex; align-items:flex-start;">
   <div>
-    This is a quasi-realistic exercise with Python for analyzing consumer behavior.
+    This is a quasi-realistic exercise with Python for analyzing consumer behavior.  
+    It's based on "survey data" with:  
     <ul>
       <li>👀 build: python venv managed w asdf</li>
       <li>🌱 version control: github</li>
@@ -11,19 +12,18 @@
   </div>
   <img src="https://user-images.githubusercontent.com/76539355/214731371-78cb7bcb-996d-4108-9872-7af758ed5647.png" alt="A Maia" style="margin-left:1rem;">
 </div>
-
+ 
+I love meeting new people. To connect:  
+- Mention me in an issue or pull request: @kjon-life  
+- My friends connect on [Instagram: @kilo.jon](https://www.instagram.com/kilo.jon/)   
+- [LinkedIn](https://www.linkedin.com/in/jonhwilliams) works for everything else.
 
 # kjon &middot; consumer behavior analyses  
  
  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/kjon-life/conjoint_analyses) 
  ![GitHub License](https://img.shields.io/github/license/kjon-life/conjoint_analyses)
  ![GitHub top language](https://img.shields.io/github/languages/top/kjon-life/conjoint_analyses)
- ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fkjon.life) 
- 
-I love meeting new people. To connect:  
-- Mention me in an issue or pull request: @kjon-life  
-- My friends connect on [Instagram: @kilo.jon](https://www.instagram.com/kilo.jon/)   
-- [LinkedIn](https://www.linkedin.com/in/jonhwilliams) works for everything else.
+
 
 
 ### Project Overview:  
